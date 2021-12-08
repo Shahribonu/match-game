@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+@font-face {
+    font-family: 'Creepy';
+    src: url(../fonts/Exquisite\ Corpse.ttf);
+}
+body{
+    background: radial-gradient(#ed8505, #8a4d03);
+}
+
+.page-title{
+    color: #fc8e27;
+    font-family: Creepy;
+    font-size: 80px;
+}
